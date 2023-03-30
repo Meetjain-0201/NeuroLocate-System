@@ -1,7 +1,7 @@
 /*
   Brain Biopsy Pen
 
-  Takes 2 target values and tarces the distance travelled.
+  Takes 2 target values and traces the distance travelled.
 
 
   If you want to know what pin the on-board LED is connected to on your Arduino
