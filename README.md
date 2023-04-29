@@ -1,2 +1,3 @@
 # Brain-Biopsy-Pen
 A surgical instrument that very much looks like a pen, is used to track down X, Y and Z coordinate of a point in the brain.
+ Basic principles of navigated surgery are to see the tip of a pointer in an image space. A relationship between the device space and the image space has to be established. This operation is called registration or calibration of the navigation device. Basically, a transformation matrix (T) has to be calculated to map the coordinates of any point between the image and the device spaces. The aim of transformation matrix is to create a linkage between digital image data and anatomical structure, and therefore, to provide increasing 3-D orientation 
